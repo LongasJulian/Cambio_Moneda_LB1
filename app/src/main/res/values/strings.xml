@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CambioMoneda</string>
+    <string name="Titulo_TX">Conversor de Moneda</string>
+    <string name="Convertir_TX">Convertir</string>
+    <string name="Inicial_TN">1</string>
+
+    <string-array name="Moneda">
+        <item>Peso Colombiano</item>
+        <item>Dólar Estadounidense</item>
+        <item>Peso Mexicano</item>
+    </string-array>
+</resources>
